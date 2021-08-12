@@ -1,0 +1,179 @@
+html{
+    background-color: #000000;
+
+   
+}
+body{
+      font-family: 'Titillium Web', sans-serif;
+}
+.titulo{
+    color: #959596;
+    font-size: 70px;
+    font-family: 'Titillium Web', sans-serif;
+    margin-left: 13%;
+    padding-right: (-15);
+    margin-bottom: 6mm;
+ 
+}
+.skilltv {
+    width: 95px;
+    padding: 0px;
+    float: left;
+    margin-left: 4mm;
+    
+    
+}
+main{
+    color: #909097;
+    font: 'Atkinson Hyperlegible', sans-serif;
+}
+.ass{
+    font-size: 90px;
+    color: #909097;
+    padding: 20px;
+    font: 'Atkinson Hyperlegible', sans-serif;
+    margin-left: 2mm;
+}
+.hr{
+    color: #5E5F6F;
+    width:  300px;
+   
+    margin-left: 8cm;
+    tab-size: 100px
+}
+.sub{
+    font-size: 50px;
+    color: #959596;
+    font-family: 'Atkinson Hyperlegible', sans-serif;
+
+  
+}
+ 
+img{
+    
+    overflow-x: scroll;
+    width: 400px;
+    border: 2px solid ;
+    animation: go-back 2s;
+    -webkit-animation: bounce 2s;
+    justify-content: center;
+    margin-right: 20px;
+}
+@keyframes bounce {
+  from {
+    transform: translateX(100px);
+  }
+  to {
+    transform: translateX(0px);
+  }
+}
+@-webkit-keyframes bounceb {
+  from {
+
+    transform: translateX(100px);
+}
+  to {
+    transform: translateX(0px);
+  }
+}
+
+
+
+.img1{
+  margin-bottom: 3cm;
+  width: 430px;
+  margin-right: 2mm;
+  
+}
+.img2{
+  margin-left: 1cm;
+  width: 420px;
+}
+
+.img3{
+  width: 380px;
+  margin-top: 1cm;
+  margin-left: 2mm;
+}
+
+.img4{
+  width: 410px;
+  margin-left: 2cm;
+  margin-top: 4cm;
+  height: (-5px);
+  padding-bottom: 5mm;
+}
+
+.img5{
+  margin-bottom: 4cm;
+  padding-top: 10mm;
+  width: 420px;
+  
+}
+
+.img6{
+  margin-left: 10mm;
+  padding-top: 4cm;
+  width: 420px;
+  
+}
+
+.img7{
+  margin-left: 1cm;
+  margin-bottom: 9mm;
+  
+}
+
+
+
+
+article{
+  display: inline-block;
+  text-align: center;
+  color: #959596;
+  font-size: 50px;
+  padding: 40px;
+  border-color: #E6E5D5;
+  
+
+}
+.Monitor{
+  position: absolute;
+  left: 30%;
+  margin-bottom: 15px;
+  padding-top: 15px;
+	background-color: #49494E;
+	}
+
+
+.bugado{
+  display: inline-block;
+  padding-top: 70px;
+  color: #9E9E9E;
+  font-size: 40px;
+  justify-content: space-around;
+  
+}
+
+.Final{
+   color: #959596;
+   font-size: 40px;
+   text-align: center;
+   padding: 20px;
+   height: (-12px);
+}
+
+.bt{
+  margin-left: 32%; 
+  margin-top: 1cm;
+  margin-bottom: 1cm;
+}
+hr{
+  margin-top: 2cm;
+}
+footer{
+  margin-top: 4cm;
+  color: #959596;
+  font-size: 35px;
+  text-align: center;
+}
